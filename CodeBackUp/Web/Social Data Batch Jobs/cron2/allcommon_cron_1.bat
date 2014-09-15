@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\PHP\v5.3\php-cgi.exe" -c "C:\Program Files (x86)\PHP\v5.3\php.ini" -f C:\Spot_Crowd_Project\cron2\allcommon_cron_1.php 

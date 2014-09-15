@@ -1,0 +1,3 @@
+themes and entities ------- top rated and worst rated words
+
+cloud words ------------ top postive and top negative words
